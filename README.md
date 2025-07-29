@@ -1,9 +1,7 @@
 # 🎮 Pixel RPG Particle Simulator  
 *A tiny, GPU-light sandbox where fire, water, sand and wood come to life in 2-D pixels.*
 
-![Demo GIF](./resources/sound/pic.png))  
-⏯️ [Watch the full demo on YouTube](https://youtu.be/1eVuMJeRuXU)
-
+[![A demonstration of the particle simulator](./resources/sound/pic.png)](https://youtu.be/1eVuMJeRuXU)
 ---
 
 ## 🚀 What it Does
